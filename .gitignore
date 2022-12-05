@@ -1,3 +1,9 @@
+python_data.*
+.jupyterlite.doit.db
+_output
+_old
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
